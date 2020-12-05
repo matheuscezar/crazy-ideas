@@ -1,0 +1,1 @@
+curl -d "<?xml version=\"1.0\"?> <methodCall> <methodName>wp.getUsersBlogs</methodName> <params> <param> <value>username</value> </param> <param> <value>password</value> </param> </params> </methodCall>" http://otakunozoku.com/xmlrpc.php

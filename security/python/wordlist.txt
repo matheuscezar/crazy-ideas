@@ -1,0 +1,9 @@
+root
+admin
+web
+ricardo
+joao
+henrique
+matheus
+msfadmin
+usuario
